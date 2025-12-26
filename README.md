@@ -93,7 +93,59 @@ Habitué à travailler aussi bien dans des startups que dans des contextes insti
 
 ## 🧩 Projets Personnels
 
-*(Vos projets personnels ici)*
+1️⃣ Application Web de Dématérialisation des Expressions de Besoins
+📍 Université Assane Seck de Ziguinchor
+🛠 Spring Boot (microservices), Spring Cloud, Thymeleaf, MySQL
+
+Fonctionnalités :
+
+Gestion hiérarchique des demandes internes
+
+Workflow de validation (utilisateurs, DAF, rectorat)
+
+Microservices : demande, authentification, notifications
+
+API Gateway & Discovery Server
+
+Interface admin en Thymeleaf
+
+➡ Projet professionnel robuste utilisé pour la gestion administrative.
+
+2️⃣ Application Web d'une Commune (Gestion Municipale)
+🛠 Spring Boot, React.js, PostgreSQL
+
+Fonctionnalités :
+
+Gestion des ménages, habitants et documents administratifs
+
+Module état civil digitalisé
+
+Authentification sécurisée (JWT)
+
+Tableau de bord moderne (React + Charts)
+
+Architecture REST maintenable
+
+➡ Conçue pour digitaliser les services d'une mairie.
+
+3️⃣ Plateforme de Petites Annonces (type Expat-Dakar)
+🛠 Spring Boot, React.js, Docker
+
+Fonctionnalités :
+
+Inscription / Connexion + rôles (User, Pro, Admin)
+
+Publication et gestion d'annonces (photos, catégories, filtres)
+
+Système de messagerie interne
+
+Paiements (plans premium)
+
+Dashboard administrateur
+
+API sécurisée + front moderne responsive
+
+➡ Une plateforme complète avec un design UX inspiré des standards pro.
 
 ---
 
