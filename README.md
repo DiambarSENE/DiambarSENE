@@ -1,126 +1,150 @@
-# 👋 Bonjour, je suis Diambar SENE  
-### Ingénieur en Génie Logiciel | Développeur Full Stack | Spring Boot · React · Microservices
+👋 Bonjour, je suis Diambar SENE
+Ingénieur en Génie Logiciel – Développement Back-End | Java · Spring Boot · Microservices
 
-📍 Diourbel, Sénégal  
-📞 +221 77 922 16 82  
-✉ d.sene20160636@zig.univ.sn  
-🔗 linkedin.com/in/diambar-sene-a53876211/
+📍 Dakar, Sénégal
+📞 +221 77 922 16 82
+✉ d.sene2005@gmail.com
 
----
+🔗 linkedin.com/in/diambar-sene
 
-## 🌟 À propos de moi
-Ingénieur en Génie Logiciel passionné par la création de solutions numériques fiables et performantes.  
-Je conçois et développe des applications web et mobiles, des architectures microservices, des API sécurisées et des interfaces modernes.
+🌐 https://diambarsene.github.io/
 
-J’interviens sur toute la chaîne : **analyse fonctionnelle, développement, tests, CI/CD, déploiement Docker, maintenance technique**.
+🧑‍💻 À propos de moi
 
-Je suis motivé, orienté résultats et engagé dans l’innovation technologique.
+Ingénieur en Génie Logiciel spécialisé en développement back-end Java / Spring Boot, avec plus de 3 ans d’expérience dans la conception, le développement et le déploiement d’applications métiers utilisées en production.
 
----
+J’ai une solide expérience dans :
 
-## 🚀 Compétences Techniques
+les architectures microservices (Spring Cloud),
 
-### 🔹 Back-End  
-- **Java | Spring Boot | API REST | Hibernate | Spring Security | JWT | OAuth2**  
-- **Microservices** : Spring Cloud, Eureka, Gateway, OpenAPI  
-- **Python · PHP**
+la sécurisation des API (Spring Security, JWT, OAuth2),
 
-### 🔹 Front-End  
-- **React.js | JavaScript | TypeScript**  
-- HTML · CSS · Bootstrap · **Thymeleaf**, notions Angular
+la mise en place de pipelines CI/CD et le déploiement sur serveurs VPS.
 
-### 🔹 Mobile  
-- **React Native (cross-platform)**
+Habitué à travailler aussi bien dans des startups que dans des contextes institutionnels, je conçois des solutions robustes, sécurisées et maintenables, orientées qualité et impact métier.
 
-### 🔹 Bases de Données  
-- PostgreSQL · MySQL · Oracle · MongoDB
+🛠️ Compétences Techniques
+🔹 Back-End
 
-### 🔹 DevOps  
-- Git · GitHub · Docker · Docker Compose  
-- Jenkins · Kubernetes · Grafana · Elasticsearch
+Java, Spring Boot, Spring Security
 
-### 🔹 Méthodologies  
-- Agile / Scrum · CI/CD
+Spring Cloud (Gateway, Eureka, Config Server)
 
----
+API REST, Hibernate / JPA
 
-# 🧩 Projets Personnels Réalisés
+JWT, OAuth2
 
-## 1️⃣ **Application Web de Dématérialisation des Expressions de Besoins**  
-📍 *Université Assane Seck de Ziguinchor*  
-🛠 **Spring Boot (microservices), Spring Cloud, Thymeleaf, MySQL**
+Python, PHP
 
-**Fonctionnalités :**  
-- Gestion hiérarchique des demandes internes  
-- Workflow de validation (utilisateurs, DAF, rectorat)  
-- Microservices : demande, authentification, notifications  
-- API Gateway & Discovery Server  
-- Interface admin en Thymeleaf
+🔹 Bases de Données
 
-➡ Projet professionnel robuste utilisé pour la gestion administrative.
+PostgreSQL, MySQL, Oracle, MongoDB
 
----
+🔹 DevOps & Outils
 
-## 2️⃣ **Application Web d’une Commune (Gestion Municipale)**  
-🛠 **Spring Boot, React.js, PostgreSQL**
+Docker, Docker Compose
 
-**Fonctionnalités :**  
-- Gestion des ménages, habitants et documents administratifs  
-- Module état civil digitalisé  
-- Authentification sécurisée (JWT)  
-- Tableau de bord moderne (React + Charts)  
-- Architecture REST maintenable
+Git, GitHub
 
-➡ Conçue pour digitaliser les services d’une mairie.
+GitHub Actions, Jenkins
 
----
+Déploiement sur VPS
 
-## 3️⃣ **Plateforme de Petites Annonces (type Expat-Dakar)**  
-🛠 **Spring Boot, React.js, Docker**
+Automatisation avec n8n
 
-**Fonctionnalités :**  
-- Inscription / Connexion + rôles (User, Pro, Admin)  
-- Publication et gestion d’annonces (photos, catégories, filtres)  
-- Système de messagerie interne  
-- Paiements (plans premium)  
-- Dashboard administrateur  
-- API sécurisée + front moderne responsive
+🔹 Tests, Documentation & Sécurité
 
-➡ Une plateforme complète avec un design UX inspiré des standards pro.
+JUnit, Postman
 
----
+Swagger / OpenAPI
 
-# 💼 Expériences Professionnelles
+Sécurisation des API REST
 
-### **Chef de Projet & Développeur Full Stack — Yaatout Sarl**  
-📍 Ziguinchor | *Mai 2023 – Présent*  
-- Développement d’applications métiers (Java, Spring Boot, React.js)  
-- Analyse fonctionnelle & conception technique  
-- Intégration, documentation, CI/CD & mise en production  
-- Maintenance corrective & évolutive
+🔹 Front-End
 
-### **Développeur Full Stack — Stage de fin d’études**  
-📍 Université Assane Seck | *Mai 2022 – Nov 2022*  
-- Développement d’une application web de gestion administrative  
-- Prototypage, tests et documentation OpenAPI  
-- Collaboration Agile
+JavaScript, React.js
 
----
+Thymeleaf
 
-# 🎓 Formation
-- **Master en Génie Logiciel**, Université Assane Seck (2022)  
-- **Licence MPI (Informatique)**, Université Assane Seck (2019)  
-- **Baccalauréat S2** (2016)
+Tailwind CSS
 
----
+🔹 Méthodologies
 
-# 🗣 Langues
-- Français  
-- Anglais (intermédiaire professionnel)
+Agile / Scrum
 
----
+Gitflow
 
-## 📫 Contact
-N’hésitez pas à me contacter pour des opportunités de collaboration, projets freelance ou missions de développement.
+Architecture Microservices
 
+🧩 Projets Personnels Réalisés
 
+(👉 section inchangée, exactement comme tu l’as fournie — c’est parfait)
+
+(Je n’y touche pas) ✅
+
+💼 Expériences Professionnelles
+Développeur Full Stack — Yaatout Sarl
+
+📍 Ziguinchor | Mai 2023 – Décembre 2025
+
+Conception et développement d’une plateforme de gestion des courriers basée sur une architecture microservices (Spring Cloud).
+
+Développement back-end avec Spring Boot et front-end avec React.js.
+
+Mise en place de pipelines CI/CD et déploiement automatisé sur serveur VPS (GitHub Actions).
+
+Sécurisation des API avec Spring Security et JWT.
+
+Rédaction de la documentation technique (Swagger / OpenAPI).
+
+Réalisation de tests unitaires et d’intégration (JUnit, Postman).
+
+Participation au développement d’une plateforme commerciale composée de 8 microservices, utilisée en production.
+
+Chargé de Travaux Pratiques – Génie Logiciel Avancé
+
+📍 Université Assane Seck de Ziguinchor | 2024 – 2025
+
+Encadrement pédagogique des étudiants en développement logiciel.
+
+Mise en place du travail collaboratif avec GitHub (bonnes pratiques, versioning).
+
+Participation à la gestion de projets via JIRA.
+
+Déploiement des projets sur serveur VPS pour familiarisation aux environnements de production.
+
+Développeur Full Stack (Stage)
+
+📍 Université Assane Seck de Ziguinchor | Mai 2022 – Novembre 2022
+
+Développement d’une plateforme de dématérialisation des expressions de besoins.
+
+Conception d’un back-end Spring Boot en architecture microservices.
+
+Réalisation de l’interface utilisateur avec Thymeleaf.
+
+Documentation technique et mise en place de tests automatisés.
+
+Travail en équipe selon la méthodologie Agile / Scrum.
+
+🎓 Formation
+
+Master en Sciences et Technologies – Informatique (Génie Logiciel)
+Université Assane Seck de Ziguinchor — 2022
+
+Licence en Sciences et Technologies – Mathématiques, Physique, Informatique
+Université Assane Seck de Ziguinchor — 2019
+
+Baccalauréat Série S2
+École Privée Mandela MADIBA, Diourbel — 2016
+
+🌍 Langues
+
+Français : Courant
+
+Anglais : Intermédiaire
+
+📬 Contact
+
+Ouvert aux opportunités CDI, missions freelance, projets institutionnels ou fintechs.
+N’hésitez pas à me contacter pour toute collaboration.
